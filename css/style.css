@@ -46,7 +46,7 @@ body {
 }
 
 .header .logo img {
-  height: 80%;
+  height: 10rem;
 }
 
 .header nav ul {
@@ -478,7 +478,7 @@ textarea {
     right: 0%;
   }
   .footer img {
-    width: 50%;
+    width: 70%;
   }
 }
 
