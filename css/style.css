@@ -477,6 +477,9 @@ textarea {
   .header .nav-toggle {
     right: 0%;
   }
+  .footer img {
+    width: 20%;
+  }
 }
 
 @media (max-width: 400px) {
