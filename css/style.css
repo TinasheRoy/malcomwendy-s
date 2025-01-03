@@ -26,8 +26,8 @@ body {
   text-align: center;
   letter-spacing: 1.7rem;
   color: #444;
-  margin: 2rem 0;
-  padding-top: 6rem;
+  margin: 1rem 0;
+  padding-top: 0rem;
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-color: var(--orange);
@@ -131,7 +131,7 @@ body {
 }
 
 .about {
-  min-height: 100vh;
+  min-height: 50vh;
   padding-bottom: 3rem;
 }
 
